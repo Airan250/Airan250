@@ -3,11 +3,7 @@
 - 👋 programming language and tools:
 -     html,css,bootstrap,javascript,nodejs,mysql,mongodb,python, (flask), kivy, github, heroku
 - 💞️ vfx:
--     adobe premier pro
--     hitfilm express
--     adobe after effect
--     adobe photoshop
--     blender 
+-     adobe premier pro, hitfilm express, adobe after effect, adobe photoshop, blender
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
