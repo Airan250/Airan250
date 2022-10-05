@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Eiran
 - 👀 I’m interested in programming and vfx
 - 👋 programming language and tools:
--     html,css,bootstrap,javascript,nodejs,mysql,mongodb,python, (flask)
+-     html,css,bootstrap,javascript,nodejs,mysql,mongodb,python, (flask), kivy, github, heroku
 - 💞️ vfx:
 -     adobe premier pro
 -     hitfilm express
